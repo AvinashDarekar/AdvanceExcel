@@ -1,10 +1,7 @@
-# AdvanceExcel
-
-
 
 ## Excel Repository
 
-This repository is dedicated to Excel practice sheets, showcasing a variety of functions and features commonly used in financial and data analysis. The sheets encompass a range of Excel functions, including SUMIFS, COUNTIFS, PIVOT tables, VLOOKUP, HLOOKUP, SLICER, and Excel Dashboards.
+Welcome to the Excel Repository dedicated to data science and analysis! This repository houses a collection of practice sheets showcasing a variety of Excel functions, with a focus on tools useful for data science. Explore the power of Excel with functions such as SUMIFS, COUNTIFS, PIVOT tables, VLOOKUP, HLOOKUP, SLICER, EXCEL DASHBOARDS, and additional functions tailored for data science.
 
 ### Practice Sheets:
 
@@ -26,14 +23,29 @@ This repository is dedicated to Excel practice sheets, showcasing a variety of f
 6. **SLICER:**
    - Excel file with examples of data slicing using slicer tools, enhancing data visualization and manipulation.
 
-7. **Excel Dashboard:**
+7. **EXCEL DASHBOARD:**
    - Comprehensive Excel dashboard combining various functions and features for a holistic representation of data insights.
+
+8. **IF, AND, OR:**
+   - Practice sheet demonstrating the use of IF, AND, and OR functions for conditional logic and decision-making.
+
+9. **INDEX & MATCH:**
+   - Worksheet illustrating the dynamic duo of INDEX and MATCH functions for flexible data retrieval.
+
+10. **TEXT FUNCTIONS:**
+    - Excel file showcasing text functions such as CONCATENATE, LEFT, RIGHT, MID, and LEN for efficient text manipulation.
+
+11. **DATE & TIME FUNCTIONS:**
+    - Practice sheet demonstrating the use of DATE, TIME, NOW, and related functions for handling date and time data.
+
+12. **STATISTICAL FUNCTIONS:**
+    - Excel file incorporating statistical functions like AVERAGE, STDEV, and CORREL for basic data analysis.
 
 ### Folder Structure:
 
 - Each practice sheet is organized into appropriately labeled folders for easy navigation.
 - The Excel dashboard is located in the "Excel Dashboard" folder.
-  
+
 ### How to Use:
 
 1. Clone the repository to your local machine using the following command:
@@ -46,14 +58,11 @@ This repository is dedicated to Excel practice sheets, showcasing a variety of f
 
 3. Explore the functions and features demonstrated in each sheet.
 
-4. Feel free to modify and adapt the sheets for your specific use cases.
+
 
 ### Contributions:
 
-- Contributions are welcome! If you have additional practice sheets or improvements, please submit a pull request.
+- Contributions are encouraged! If you have additional practice sheets, functions, or improvements, please submit a pull request.
 
-### License:
 
-This repository is licensed under the [MIT License](LICENSE), granting you the freedom to use and modify the content.
-
-Happy Excel practicing!
+Happy Excel practicing for Data Science!
