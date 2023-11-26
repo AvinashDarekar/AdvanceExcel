@@ -1,8 +1,8 @@
 # AdvanceExcel
 
-# README
 
-## Excel Repository for GitHub
+
+## Excel Repository
 
 This repository is dedicated to Excel practice sheets, showcasing a variety of functions and features commonly used in financial and data analysis. The sheets encompass a range of Excel functions, including SUMIFS, COUNTIFS, PIVOT tables, VLOOKUP, HLOOKUP, SLICER, and Excel Dashboards.
 
